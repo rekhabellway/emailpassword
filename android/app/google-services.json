@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "176420974450",
+    "project_id": "emailpassword-3e6a4",
+    "storage_bucket": "emailpassword-3e6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176420974450:android:de042e8c3741adb49077eb",
+        "android_client_info": {
+          "package_name": "com.example.emailpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176420974450-8kjlis0l0f3ab4il0m5hbmv42br4b6t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd1W903zLL4J1UAqpy21-SehnTfxCOJKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176420974450-8kjlis0l0f3ab4il0m5hbmv42br4b6t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176420974450:android:171f054f7988855b9077eb",
+        "android_client_info": {
+          "package_name": "com.example.flipkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176420974450-8kjlis0l0f3ab4il0m5hbmv42br4b6t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd1W903zLL4J1UAqpy21-SehnTfxCOJKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176420974450-8kjlis0l0f3ab4il0m5hbmv42br4b6t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
